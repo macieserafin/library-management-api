@@ -21,6 +21,7 @@ public class Book {
     private String title;
     private String author;
 
+    @Column(name = "publication_year")
     private Integer year;
 
     @ManyToOne
