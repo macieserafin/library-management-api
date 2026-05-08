@@ -1,4 +1,4 @@
-# Library Spring
+# library-management
 
 Projekt przedstawia prosta aplikacje biblioteczna napisana w Spring Boot. Backend udostepnia REST API do zarzadzania bibliotekami, ksiazkami, uzytkownikami oraz wypozyczeniami. Do projektu przygotowany jest rowniez prosty frontend testowy w czystym HTML, CSS i JavaScript.
 
