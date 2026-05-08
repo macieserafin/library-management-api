@@ -6,7 +6,7 @@ Projekt przedstawia prosta aplikacje biblioteczna napisana w Spring Boot. Backen
 
 Do projektu został przygotowany prosty frontend testowy, który umożliwia wygodne sprawdzanie działania endpointów backendu.
 
-Repozytorium frontendu: [https://github.com/macieserafin/Library_Spring-frontend](https://github.com/macieserafin/Library_Spring-frontend)
+Repozytorium frontendu: [https://github.com/macieserafin/library-management-frontend](https://github.com/macieserafin/library-management-frontend)
 
 
 
